@@ -1,4 +1,4 @@
-# Proyecto-Unidad-II-Blog
+# Proyecto-Unidad-II-Blog- Machado Rodriguez Alexis 20490715
 HTML Parte:
 <link rel="stylesheet" href="css/style.css">: 
 Enlaza una hoja de estilo externa llamada "style.css" ubicada en la carpeta "css" del proyecto.
