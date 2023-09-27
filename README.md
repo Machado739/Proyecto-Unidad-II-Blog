@@ -7,7 +7,7 @@ Enlaza una hoja de estilo externa llamada "style.css" ubicada en la carpeta "css
 href se utiliza en elementos HTML, principalmente en enlaces <a> y
 elementos <link>, para especificar la URL a la que el enlace o el recurso está apuntando. 
 
-<img src="https://i.imgr.com/ADENng6.png" alt="Imagen de la página">
+<img src="https://ejemplo.png" alt="Imagen de la página">
 <img> se utiliza para insertar imágenes en una página web
 src: Este atributo especifica la fuente (URL) de la imagen que se va a mostrar en la página web.
 
